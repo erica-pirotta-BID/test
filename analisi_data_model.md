@@ -45,7 +45,7 @@ erDiagram
     }
 
     GERARCHIA {
-        int id_utente PK_FK
+        int id_utente PK
         string BU PK
         int livello_gerarchia
         string step_approvazione
